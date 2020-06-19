@@ -1,4 +1,5 @@
 # news_demo
 
 一个flutter小demo
-![ScreenShot.jpeg](lib/resources/ScreenShot.jpeg)
+
+<img src="lib/resources/ScreenShot.jpeg" width="300"/>
